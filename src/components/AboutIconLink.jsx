@@ -12,8 +12,3 @@ function AboutIconLink() {
 }
 
 export default AboutIconLink
-{/* <Link to={{
-                pathname: "/about",
-                search: "?sort=name",
-                hash: "#hello"
-            }}> */}
